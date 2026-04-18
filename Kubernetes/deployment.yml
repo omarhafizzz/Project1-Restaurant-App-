@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: omar-app
+  labels:
+    app: omar-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: omar-app
+  template:
+    metadata:
+      labels:
+        app: omar-app
+    spec:
+      terminationGracePeriodSeconds: 30
+      containers:
+      - name: omar-app
+        image: omarhafiz/p2:latest
+        imagePullPolicy: "Always"
+        ports:
+        - containerPort: 3000
