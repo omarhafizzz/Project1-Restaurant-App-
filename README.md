@@ -12,19 +12,14 @@
 **A full-stack online restaurant application deployed with a complete DevOps CI/CD pipeline on AWS**
 
 <div align="center">
+<img width="1920" height="1018" alt="Screenshot 2026-04-18 051716" src="https://github.com/user-attachments/assets/fbd1155e-6abe-4bdc-ab7d-7a5db4672e5a" />
+<img width="1763" height="1254" alt="Screenshot_18-4-2026_5735_18 184 215 48" src="https://github.com/user-attachments/assets/535ac043-79ed-408e-aa35-13bb22ec6fae" />
+<img width="1763" height="871" alt="Screenshot_18-4-2026_51630_18 184 215 48" src="https://github.com/user-attachments/assets/98d3efa3-cf19-4401-8083-c33120a3f5ab" />
+<img width="967" height="686" alt="Screenshot 2026-04-18 051752" src="https://github.com/user-attachments/assets/86617289-2087-4d07-9aa5-028e7e249f2b" />
+<img width="1763" height="1509" alt="Screenshot_18-4-2026_5135_3 127 151 36" src="https://github.com/user-attachments/assets/b62a222e-bc6d-4767-9909-fec74b03a495" />
+<img width="1763" height="1537" alt="Screenshot_18-4-2026_5855_hub docker com" src="https://github.com/user-attachments/assets/ee2df60e-e174-4e7b-9fa3-c3651e0b4a28" />
+<img width="1910" height="860" alt="Screenshot_18-4-2026_51026_eu-central-1 console aws amazon com" src="https://github.com/user-attachments/assets/f98215d5-2889-4d17-9e0f-65b2cce84061" />
 
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_5755_18_194_139_54.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_5829_3_127_151_36.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_51315_3_127_151_36.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_51511_18_184_215_48.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_51630_18_184_215_48.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_5135_3_127_151_36.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_51026_eu-central-1_console_aws_amazon_com.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_5735_18_184_215_48.jpeg" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_2026-04-18_051416.png" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_2026-04-18_051716.png" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_2026-04-18_051752.png" />
-<img src="https://raw.githubusercontent.com/omarhafizzz/Project1-Restaurant-App-/main/Photos%20and%20screenshots/Screenshot_18-4-2026_5855_hub_docker_com.jpeg" />
 
 </div>
 
